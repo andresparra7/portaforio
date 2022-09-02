@@ -15,3 +15,8 @@ Sub hotel()
 End If
 End Sub
 ~~~
+#repetir variable
+Sub p()
+For a = 1 To 7
+MsgBox "peeeeee"
+Next
